@@ -1,4 +1,4 @@
-# Uebung-039  --  [***Kreditkarten Prüfer***](https://github.com/IxI-Enki/Uebung-039/blob/main)  
+# Uebung-039  --  [***KreditkartenPrüfer***](https://github.com/IxI-Enki/Uebung-039/blob/main)  
 
 <!-- ---------------------------------------------|-------------------------------------------- -->
 ###### 📎[**Angabe**](https://github.com/IxI-Enki/Uebung-039/blob/main/work-directory/EPR%20KreditkartenPruefer.pdf) *.pdf*
