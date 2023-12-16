@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+*.sln
+/KreditkartenPrüfer/.vs/KreditkartenPrüfer
+/KreditkartenPrüfer/KreditkartenPrüfer/obj
+/KreditkartenPrüfer/KreditkartenPrüfer/KreditkartenPrüfer.csproj
