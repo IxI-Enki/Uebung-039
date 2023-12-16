@@ -52,7 +52,7 @@ wie folgt gegen Fehleingaben abgesichert:
 
 <!-- ---------------------------------------------|-------------------------------------------- -->
 
-# *SPOILER* <sub><sup> → [*Lösung*](https://github.com/IxI-Enki/Uebung-<<AUSFÜHRBAREDAT>>.cs) <sup></sub>:
+# *SPOILER* <sub><sup> → [*Lösung*](https://github.com/IxI-Enki/Uebung-039/blob/main/KreditkartenPrüfer/KreditkartenPrüfer/KreditkartenPrüfer.cs) <sup></sub>:
 
 > nicht meine Beste Leisutng 👎🙈
 
